@@ -40,3 +40,8 @@
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
+
+
+[Check Part 1](https://daily.dev/posts/creating-a-killer-github-profile-readme-part-1)
+</br>
+[Check Part 2](https://daily.dev/posts/creating-a-killer-github-profile-readme-part-2) 
