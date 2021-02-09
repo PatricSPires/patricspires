@@ -3,6 +3,7 @@
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev) -->
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/PiresPatric)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/patricpires/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E75A53)](https://www.instagram.com/patric.pires/)
 
 ## 📌 Pinned Repositories
 
@@ -31,7 +32,17 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Strapi-cms?style=flat&logo=strapi&logoColor=white&color=4AB197)
 
-## 📣 How about an Office quote before you go?
+
+## 📕 Learning
+I am currently studying some things we can talk about:
+
+![](https://img.shields.io/badge/Code-Nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=4AB197)
+
+
+<!-- ## 🏗️ Building -->
+
+
+<!-- ## 📣 How about an Office quote before you go?
 
 > {office_quote}
 >
@@ -44,4 +55,4 @@ Check back at the top of the hour for a new quote!
 
 [Check Part 1](https://daily.dev/posts/creating-a-killer-github-profile-readme-part-1)
 </br>
-[Check Part 2](https://daily.dev/posts/creating-a-killer-github-profile-readme-part-2) 
+[Check Part 2](https://daily.dev/posts/creating-a-killer-github-profile-readme-part-2)  -->
